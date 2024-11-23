@@ -1,0 +1,723 @@
+457  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml] otherwise TestNG may fail or not work as expected.
+901  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1548 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1596 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+3256 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+7848 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+9475 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+9522 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+10597 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+16608 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+18410 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+18445 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+19476 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+23861 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+468  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml] otherwise TestNG may fail or not work as expected.
+899  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2573 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+2622 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+6319 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+11911 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+14117 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+14141 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+15189 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+18228 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+20085 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+20108 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+21090 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+23954 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+507  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml] otherwise TestNG may fail or not work as expected.
+919  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+3453 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8574 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+10991 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+16742 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+19415 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+24993 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+908  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+2891 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+10969 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731750005467
+10969 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+11751 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+21852 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731750015924
+21852 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+22540 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+30530 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731750024808
+30531 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+31189 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+42600 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731750036983
+42600 [main] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+454  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml] otherwise TestNG may fail or not work as expected.
+795  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2378 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+7126 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+9252 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+13707 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+16004 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+20354 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+392  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml] otherwise TestNG may fail or not work as expected.
+771  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2216 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+9677 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+11933 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+15504 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+17820 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+22167 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+891  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2523 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+9842 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+12063 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+18085 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+20482 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+26995 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+806  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2583 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+9762 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+12133 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+18245 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+20689 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+24089 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+1044 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+7469 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+12334 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+15816 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+22026 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+28258 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+32667 [main] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+924  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1676 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1676 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1676 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1742 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1742 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1743 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+5887 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5887 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+5887 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+10792 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+11741 [TestNG-tests-3] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+11928 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+739  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1380 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1380 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1380 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1426 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1426 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1426 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+4978 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+4978 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+4978 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+10753 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+10774 [TestNG-tests-3] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+10813 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+865  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+1651 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1651 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1651 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1651 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1700 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1700 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1705 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1708 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+5702 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+5702 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+5702 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+5702 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+16247 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751818425
+16247 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+16774 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751819357
+16775 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+17027 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751819691
+17027 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+17869 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751820183
+17869 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+908  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+3051 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+13975 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751857064
+13976 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+14769 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+26055 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751869279
+26055 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+26749 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+35225 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751878833
+35226 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+35898 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+43779 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731751887108
+43779 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+880  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+4811 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+4811 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+4811 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+4811 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+12142 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752206749
+12142 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+15602 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752210154
+15602 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+18172 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752212355
+18172 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+19412 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752213671
+19413 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+1000 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+3999 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+3999 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+3999 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+3999 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+12440 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752992394
+12441 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+13362 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752993122
+13362 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+13979 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752993633
+13979 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+15700 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731752995503
+15700 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+904  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+3290 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+3290 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+3290 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+3290 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+11545 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731753021017
+11545 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+12292 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731753021983
+12292 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+12427 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731753022283
+12427 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+14505 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731753023799
+14505 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+771  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+802  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+805  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+805  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+805  [main] INFO  com.thakurkumarrahul.util.Config -- browser = chrome
+805  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+805  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+805  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+805  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+805  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+841  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+841  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+842  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+595  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+617  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+618  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+618  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+618  [main] INFO  com.thakurkumarrahul.util.Config -- browser = chrome
+618  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+618  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = false
+618  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+618  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+619  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+1594 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1594 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1594 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.69 (resolved driver for Chrome 131)
+1627 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1628 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+1628 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\131.0.6778.69\chromedriver.exe
+3982 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+3982 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+3982 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+7515 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+7515 [TestNG-tests-3] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+8123 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+620  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+650  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+652  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+652  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+652  [main] INFO  com.thakurkumarrahul.util.Config -- browser = chrome
+652  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+652  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+652  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+652  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+652  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+675  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+675  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+675  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+887  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+925  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+929  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+929  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+929  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+929  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+929  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+929  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+929  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+929  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+957  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+957  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+957  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+641  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+668  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+669  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+670  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+670  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+670  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+670  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+670  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+670  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+670  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+700  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+700  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+700  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+866  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+903  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+904  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+905  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+906  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+906  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+906  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+906  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+906  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+906  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+929  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+929  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+930  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+957  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+978  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+979  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+636  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+660  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+661  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+662  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+662  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+662  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+662  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+662  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+662  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+662  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+677  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+677  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+677  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+689  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+689  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+689  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+773  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+801  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+803  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+803  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = https://%s:4444/wd/hub
+803  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+803  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+803  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+803  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+803  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+803  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+818  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+819  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+819  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+17056 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+17056 [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+17056 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: https://localhost:4444/wd/hub
+713  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+744  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+745  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+746  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+746  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+746  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+746  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+746  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+746  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+746  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+765  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+765  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+766  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+9572 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+9572 [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+9572 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+799  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+826  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+828  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+828  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+829  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+829  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+829  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+829  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+829  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+829  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+845  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+846  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+846  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+107177 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+107177 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+107177 [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+118698 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+118698 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+118698 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+127152 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+127179 [TestNG-tests-3] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+127211 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+852  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+884  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+886  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+886  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+886  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+886  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+886  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+886  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+886  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+886  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+902  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+902  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+902  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+916  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+916  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+916  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+5216 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5216 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+5216 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+12712 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+12825 [TestNG-tests-3] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+12834 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+620  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+643  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+644  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+645  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+645  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+645  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+645  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+645  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+645  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+645  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+659  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- check
+659  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- check
+661  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- check
+674  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+674  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+674  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+4313 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+4313 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+4313 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+11534 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+11550 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+11550 [TestNG-tests-3] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+647  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+677  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+679  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+679  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+680  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+680  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+680  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+681  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+681  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+681  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+713  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+713  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+713  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+713  [TestNG-tests-4] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+5283 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+5283 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+5283 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+5283 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+31736 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838267444
+31736 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+31976 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838268497
+31976 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+32140 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838267944
+32140 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+32220 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838269380
+32221 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+645  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\Lenovo\udemy-docker\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-resevation.xml
+
+666  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+667  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+668  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+668  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+668  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+668  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+668  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+668  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+668  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+700  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+700  [TestNG-tests-4] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+700  [TestNG-tests-3] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+700  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+4811 [TestNG-tests-4] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+4812 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+4812 [TestNG-tests-3] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+4858 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+29850 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838443806
+29850 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+29995 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838443790
+29996 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+30127 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838444592
+30127 [TestNG-tests-4] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+30189 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731838443822
+30189 [TestNG-tests-3] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+532  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+536  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+536  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+539  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+539  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+539  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+539  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+539  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+539  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+560  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+560  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+3710 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+3710 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+10610 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+10610 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+22673 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+25033 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+31488 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+43295 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+43296 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+43297 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+43297 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+45646 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+45881 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+68995 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731839147593
+68995 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+69449 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731839147798
+69449 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+74656 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+75167 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+76969 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+77635 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+100527 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731839178708
+100527 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+101134 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731839178748
+101134 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+643  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+649  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+649  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+651  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+651  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+651  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+651  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+651  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+651  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+674  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+674  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+4707 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+4707 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+11552 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+11603 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+17856 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+20296 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+26921 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+38799 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+38799 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+38800 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+38801 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+38801 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+41419 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+41717 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+64803 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731840176373
+64804 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+65289 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731840178033
+65290 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+70672 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+71200 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+73294 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+74015 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+96813 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731840208458
+96813 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+97993 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731840209606
+97993 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+637  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+642  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+642  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+644  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+644  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+644  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+644  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+644  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+644  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+669  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+669  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+6544 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6544 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+17380 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+17380 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+30427 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+33634 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+40638 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+52950 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+52951 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+52951 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+52951 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+52951 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+52951 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+52951 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+52952 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+52952 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+52953 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+52953 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+57039 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+57081 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+82441 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731915461178
+82441 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+83026 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731915462404
+83026 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+88548 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+89310 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+92247 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+92667 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+119415 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731915498308
+119415 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+119577 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731915498571
+119577 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+898  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+904  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+905  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+906  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+906  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+906  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+906  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+906  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+907  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+942  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+942  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+6558 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6558 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+9381 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 10
+10249 [TestNG-tests-1] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 8
+12032 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+15343 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+19177 [TestNG-tests-2] INFO  c.t.p.vendorPortal.DashboardPage -- Search result count: 0
+21499 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+21500 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+21501 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+21501 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+21501 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+21501 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+21501 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+21501 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+21502 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+21503 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+21503 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+24834 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+24871 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+32201 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731988089115
+32202 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $584 USD
+33473 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+33978 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731988091093
+33978 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1169 USD
+35232 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+36820 [TestNG-tests-1] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+38475 [TestNG-tests-2] INFO  c.t.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+46173 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731988103472
+46174 [TestNG-tests-2] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $2338 USD
+46452 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight confirmation# : 2024-11-1731988103844
+46453 [TestNG-tests-1] INFO  c.t.p.f.FlightsConfirmation -- Flight Total Price# : $1753 USD
+760  [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+764  [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+765  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+767  [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+767  [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+767  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+767  [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+767  [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+768  [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+796  [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+796  [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1536 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1565 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+1566 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+1566 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+1566 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+1567 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1567 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+1567 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1567 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+1567 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+1569 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1568 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1606 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1610 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1064 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+1068 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+1069 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+1070 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+1071 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1071 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+1071 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1071 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+1071 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+1113 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1113 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1736 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1764 [main] INFO  c.t.util.ResourceLoader -- Reading resource from location: config/default.properties
+1765 [main] INFO  com.thakurkumarrahul.util.Config -- Test Properties
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.urlFormat = http://%s:4444/wd/hub
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- browser = firefox
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- vendorPortal.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.enabled = true
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- flightReservation.url = https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- selenium.grid.hubHost = localhost
+1766 [main] INFO  com.thakurkumarrahul.util.Config -- ----------------
+1768 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1768 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1807 [TestNG-tests-2] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
+1815 [TestNG-tests-1] INFO  c.t.test.AbstractTest -- Grid URL: http://localhost:4444/wd/hub
