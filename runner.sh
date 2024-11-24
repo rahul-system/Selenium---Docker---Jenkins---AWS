@@ -8,6 +8,8 @@
 #     TEST_SUITE
 #-------------------------------------------------------------------
 
+set -x
+
 # Let's print what we have received
 echo "-------------------------------------------"
 echo "HUB_HOST      : ${HUB_HOST:-hub}"
